@@ -15,7 +15,6 @@ public class Main {
         }
     }
     public static void main(String[] args) {
-//      Override
         B obj1 = new B();
         System.out.println(obj1.meth());
         B obj2 = new B();
