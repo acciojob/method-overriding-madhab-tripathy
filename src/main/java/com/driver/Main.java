@@ -16,10 +16,10 @@ public class Main {
     }
     public static void main(String[] args) {
         // Final Submit
-        B obj1 = new B();
-        obj1.meth();
-        B obj2 = new B();
-        obj1.meth();
+        B b = new B();
+        b.meth();
+        B b1 = new B();
+        b.meth();
     }
 }
 
